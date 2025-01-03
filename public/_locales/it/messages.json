@@ -1,1 +1,302 @@
-{}
+{
+    "labelExpand": {
+        "message": "Espandi"
+    },
+    "labelSearch": {
+        "message": "Cerca"
+    },
+    "labelSortOldest": {
+        "message": "Più vecchia"
+    },
+    "labelSortName": {
+        "message": "Nome"
+    },
+    "labelSortAZ": {
+        "message": "A-Z"
+    },
+    "labelSortZA": {
+        "message": "Z-A"
+    },
+    "labelTagsAll": {
+        "message": "Tutte"
+    },
+    "labelMonth": {
+        "message": "m."
+    },
+    "labelHour": {
+        "message": "o."
+    },
+    "labelSavedAt": {
+        "message": "Salvata il"
+    },
+    "labelYear": {
+        "message": "a."
+    },
+    "labelDonate": {
+        "message": "Dona"
+    },
+    "labelRemoveTag": {
+        "message": "Rimuovi etichetta"
+    },
+    "labelOpen": {
+        "message": "Apri"
+    },
+    "tagsModalSelectTag": {
+        "message": "Seleziona etichetta"
+    },
+    "renameModalTitle": {
+        "message": "Rinomina sessione"
+    },
+    "saveModalTitle": {
+        "message": "Salva sessione"
+    },
+    "inputModalErrorLength": {
+        "message": "Il nome della sessione deve essere fra i $1 e $2 caratteri."
+    },
+    "deleteModalTitle": {
+        "message": "Cancella sessione"
+    },
+    "inputModalErrorChar": {
+        "message": "Il nome della sessione non può contenere i caratteri \"<\" o \">\"."
+    },
+    "notifySaveFailEmpty": {
+        "message": "Salvataggio sessione vuota fallito"
+    },
+    "notifyUpdateSuccess": {
+        "message": "Sessione aggiornata!"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "Cancellazione fallita: sessione inesistente"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "Tutte le sessioni cancellate!"
+    },
+    "notifyDeleteAllFail": {
+        "message": "Cancellazione sessioni fallita"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "Cancellazione fallita: sessioni inesistenti"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "Interfaccia utente"
+    },
+    "settingsPopupView": {
+        "message": "Apri in finestra"
+    },
+    "settingsAutosave": {
+        "message": "Salva sessioni automaticamente"
+    },
+    "settingsAutosaveMax": {
+        "message": "Numero massimo di sessioni salvate (max. 15 sessioni)"
+    },
+    "settingsAutosaveInterval": {
+        "message": "Intervallo di salvataggio in minuti (min. 1 minuto)"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "Azioni estensione"
+    },
+    "settingsURLFilterList": {
+        "message": "Lista di filtraggio URL"
+    },
+    "settingsURLFilterListPlaceholder": {
+        "message": "es. traccia solo i seguenti schemi URL corrispondenti:\n*://*/*\nfile:///*/*\nftp://*/*\nchrome://*/*\nhttps://*.google.com/\nhttps://www.youtube.com/*\n"
+    },
+    "settingsLazyload": {
+        "message": "Caricamento schede lento"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "Azioni sessione"
+    },
+    "settingsTagsTag": {
+        "message": "Etichetta"
+    },
+    "settingsTagsText": {
+        "message": "Testo"
+    },
+    "inputModalPlaceholder": {
+        "message": "Inserisci nome sessione…"
+    },
+    "settingsLazyloadDescription": {
+        "message": "Riduce di molto la memoria occupata non caricando le schede fino alla loro selezione"
+    },
+    "aboutTranslationsLabel": {
+        "message": "Traduzioni"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "Escludi schede fissate dalla sessione"
+    },
+    "labelSortNewest": {
+        "message": "Più recente"
+    },
+    "labelDay": {
+        "message": "giorno"
+    },
+    "labelFullView": {
+        "message": "Vista completa"
+    },
+    "settingsAutosaveHeading": {
+        "message": "Salvataggio automatico"
+    },
+    "settingsTagsPreview": {
+        "message": "Anteprima"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "Scorciatoie da tastiera"
+    },
+    "shortcutFocusSearch": {
+        "message": "Vai alla casella di ricerca"
+    },
+    "shortcutDeleteSelected": {
+        "message": "Cancella sessione selezionata"
+    },
+    "notifyUpdateFail": {
+        "message": "Aggiornamento sessione fallito"
+    },
+    "notifyDeleteSuccess": {
+        "message": "Sessione cancellata!"
+    },
+    "notifyExtUpdate": {
+        "message": "Sessionic aggiornato a v$1!"
+    },
+    "deleteModalContent": {
+        "message": "Sei sicuro di voler cancellare questa sessione?"
+    },
+    "labelTabs": {
+        "message": "Schede"
+    },
+    "labelSearchPlaceholder": {
+        "message": "Cerca sessione o nome scheda…"
+    },
+    "labelSettings": {
+        "message": "Impostazioni"
+    },
+    "labelAddTag": {
+        "message": "Aggiungi etichetta"
+    },
+    "labelCollapse": {
+        "message": "Comprimi"
+    },
+    "notifySaveSuccess": {
+        "message": "Sessione salvata!"
+    },
+    "settingsDarkMode": {
+        "message": "Tema scuro"
+    },
+    "labelClose": {
+        "message": "Chiudi"
+    },
+    "labelDelete": {
+        "message": "Cancella"
+    },
+    "settingsTagsBackground": {
+        "message": "Sfondo"
+    },
+    "aboutDonateHeading": {
+        "message": "Sostieni il progetto"
+    },
+    "notifySaveFail": {
+        "message": "Salvataggio sessione fallito"
+    },
+    "extDesc": {
+        "message": "Un'estensione per salvare, gestire e ripristinare sessioni, finestre e schede."
+    },
+    "keyboardShortcutsPage": {
+        "message": "Scorciatoie da tastiera"
+    },
+    "aboutPage": {
+        "message": "Informazioni"
+    },
+    "labelWindow": {
+        "message": "Finestra"
+    },
+    "labelTab": {
+        "message": "Scheda"
+    },
+    "labelCurrentSession": {
+        "message": "Sessione attuale"
+    },
+    "labelUnnamedSession": {
+        "message": "Sessione senza nome"
+    },
+    "labelSortDate": {
+        "message": "Data"
+    },
+    "labelWindows": {
+        "message": "Finestre"
+    },
+    "generalPage": {
+        "message": "Generale"
+    },
+    "labelPrivateWindow": {
+        "message": "Finestra privata"
+    },
+    "labelMinute": {
+        "message": "min."
+    },
+    "labelJustNow": {
+        "message": "adesso"
+    },
+    "labelClear": {
+        "message": "Svuota"
+    },
+    "labelSave": {
+        "message": "Salva"
+    },
+    "settingsResetAll": {
+        "message": "Azzera tutte le impostazioni"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "Non chiedere un nome sessione al salvataggio"
+    },
+    "shortcutSaveCurrent": {
+        "message": "Salva sessione attuale"
+    },
+    "notifyLoadFail": {
+        "message": "Caricamento sessioni fallito"
+    },
+    "labelRename": {
+        "message": "Rinomina"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "Comprimi dati sessione al salvataggio"
+    },
+    "settingsTagsAction": {
+        "message": "Azione"
+    },
+    "settingsImportSessions": {
+        "message": "Importa sessioni"
+    },
+    "settingsExportSessions": {
+        "message": "Esporta sessioni"
+    },
+    "shortcutRenameSelected": {
+        "message": "Rinomina sessione selezionata"
+    },
+    "shortcutCommandPalette": {
+        "message": "Apri finestra comandi"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "Mostra sessione attuale"
+    },
+    "shortcutSelectPrevious": {
+        "message": "Seleziona sessione precedente"
+    },
+    "shortcutSelectNext": {
+        "message": "Seleziona sessione successiva"
+    },
+    "tagPlaceholder": {
+        "message": "es. Personale"
+    },
+    "aboutChangelogLabel": {
+        "message": "Registro delle modifiche"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "Codice sorgente"
+    },
+    "aboutLicenseLabel": {
+        "message": "Licenza AGPL v3"
+    },
+    "notifyDeleteFail": {
+        "message": "Cancellazione sessione fallita"
+    }
+}

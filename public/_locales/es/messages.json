@@ -392,5 +392,9 @@
     },
     "aboutSourceCodeLabel": {
         "message": "Código fuente"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "Comprimir los datos de la sesión al guardar",
+        "description": "The label for compress session data when saving option in settings"
     }
 }

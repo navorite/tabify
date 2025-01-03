@@ -1,1 +1,18 @@
-{}
+{
+    "extDesc": {
+        "message": "세션,창,탭을 저장, 관리 및 복원하는 웹 확장 프로그램입니다.",
+        "description": "Description of the extension"
+    },
+    "generalPage": {
+        "message": "일반적인",
+        "description": "The label for the General page in settings"
+    },
+    "keyboardShortcutsPage": {
+        "message": "키보드 단축키",
+        "description": "The label for the Keyboard Shortcuts page in settings"
+    },
+    "aboutPage": {
+        "message": "소개",
+        "description": "The label for the About page in settings"
+    }
+}
