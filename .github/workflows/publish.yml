@@ -1,0 +1,63 @@
+name: Publish to stores - Chrome Web Store, Firefox store, Edge store
+
+on: 
+  release:
+    types: [created]
+
+env:
+  FILE_PATH: ./dist/sessionic.zip
+
+  CHROME_EXTENSION_ID: ${{ secrets.CHROME_EXTENSION_ID }}
+  CHROME_CLIENT_ID: ${{ secrets.CHROME_CLIENT_ID }}
+  CHROME_CLIENT_SECRET: ${{ secrets.CHROME_CLIENT_SECRET }}
+  CHROME_REFRESH_TOKEN: ${{ secrets.CHROME_REFRESH_TOKEN }}
+
+  FIREFOX_UUID: ${{ secrets.FIREFOX_UUID }}
+  FIREFOX_AUTH_API_ISSUER: ${{ secrets.FIREFOX_AUTH_API_ISSUER }}
+  FIREFOX_AUTH_API_SECRET: ${{ secrets.FIREFOX_AUTH_API_SECRET }}
+
+  EDGE_PRODUCT_ID: ${{ secrets.EDGE_PRODUCT_ID }}
+  EDGE_CLIENT_ID: ${{ secrets.EDGE_CLIENT_ID }}
+  EDGE_CLIENT_SECRET: ${{ secrets.EDGE_CLIENT_SECRET }}
+  EDGE_ACCESS_TOKEN_URL: ${{ secrets.EDGE_ACCESS_TOKEN_URL }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 20
+        
+    - name: Build
+      run: |
+        npm ci
+        npm run build
+        
+    - name: Publish to Chrome Web Store
+      uses: mnao305/chrome-extension-upload@v4.0.1
+      with:
+        file-path: FILE_PATH
+        extension-id: CHROME_EXTENSION_ID
+        client-id: CHROME_CLIENT_ID
+        client-secret: CHROME_CLIENT_SECRET
+        refresh-token: CHROME_REFRESH_TOKEN
+
+    - name: Publish to Firefox store
+      uses: browser-actions/public-firefox-addon@latest
+      with:
+        addon-id: FIREFOX_UUID
+        addon-path: FILE_PATH
+        auth-api-issuer: FIREFOX_AUTH_API_ISSUER
+        auth-api-secret: FIREFOX_AUTH_API_SECRET
+        
+    - name: Publish to Edge store
+      uses: hocgin/action-edge-addone-upload@main
+      with:
+        product_id: EDGE_PRODUCT_ID
+        client_id: EDGE_CLIENT_ID
+        client_secret: EDGE_CLIENT_SECRET
+        access_token_url: EDGE_ACCESS_TOKEN_URL
+        addone_file: FILE_PATH
