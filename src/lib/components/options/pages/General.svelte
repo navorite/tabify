@@ -84,37 +84,6 @@
   </label>
 </Section>
 
-<Section title={i18n.getMessage('settingsExtensionActionsHeading')}>
-  <label class="flex flex-col gap-2 font-medium">
-    {i18n.getMessage('settingsURLFilterList')}
-    <textarea
-      name="filter-list"
-      id="filter-list"
-      rows="8"
-      placeholder={i18n.getMessage('settingsURLFilterListPlaceholder')}
-      class="resize-none rounded-md bg-neutral-3 p-2 text-sm placeholder:text-neutral-content/40"
-      inputmode="url"
-      value={urlList}
-      on:change={(ev) => handleFilterListChange(ev, urlList)}
-    />
-  </label>
-
-  <Switch
-    title={i18n.getMessage('settingsLazyload')}
-    description={i18n.getMessage('settingsLazyloadDescription')}
-    checked={$settings.discarded}
-    on:change={() => settings.changeSetting('discarded', !$settings.discarded)}
-  />
-
-  <button
-    type="button"
-    class="max-w-fit rounded-md bg-error px-4 py-2 text-white hover:bg-error-focus"
-    on:click={settings.clear}
-  >
-    {i18n.getMessage('settingsResetAll')}
-  </button>
-</Section>
-
 <Section title={i18n.getMessage('settingsSessionActionsHeading')}>
   <Switch
     title={i18n.getMessage('settingsDoNotAskForSessionName')}
@@ -160,4 +129,35 @@
       >{i18n.getMessage('settingsExportSessions')}</button
     >
   </div>
+</Section>
+
+<Section title={i18n.getMessage('settingsExtensionActionsHeading')}>
+  <Switch
+    title={i18n.getMessage('settingsLazyload')}
+    description={i18n.getMessage('settingsLazyloadDescription')}
+    checked={$settings.discarded}
+    on:change={() => settings.changeSetting('discarded', !$settings.discarded)}
+  />
+
+  <label class="flex flex-col gap-2 font-medium">
+    {i18n.getMessage('settingsURLFilterList')}
+    <textarea
+      name="filter-list"
+      id="filter-list"
+      rows="8"
+      placeholder={i18n.getMessage('settingsURLFilterListPlaceholder')}
+      class="resize-none rounded-md bg-neutral-3 p-2 text-sm placeholder:text-neutral-content/40"
+      inputmode="url"
+      value={urlList}
+      on:change={(ev) => handleFilterListChange(ev, urlList)}
+    />
+  </label>
+
+  <button
+    type="button"
+    class="max-w-fit rounded-md bg-error px-4 py-2 text-white hover:bg-error-focus"
+    on:click={settings.clear}
+  >
+    {i18n.getMessage('settingsResetAll')}
+  </button>
 </Section>
