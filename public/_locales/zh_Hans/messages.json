@@ -1,1 +1,359 @@
-{}
+{
+    "labelSettings": {
+        "message": "设置",
+        "description": "The label for Settings"
+    },
+    "aboutDonateHeading": {
+        "message": "支持此项目",
+        "description": "The heading used in the donate modal"
+    },
+    "labelTabs": {
+        "message": "标签页",
+        "description": "The label for Tabs"
+    },
+    "labelSortDate": {
+        "message": "日期",
+        "description": "The label for sorting by date category"
+    },
+    "labelSortNewest": {
+        "message": "最新",
+        "description": "The label for sorting by newest saved session"
+    },
+    "labelSortOldest": {
+        "message": "最旧",
+        "description": "The label for sorting by oldest saved session"
+    },
+    "labelSortAZ": {
+        "message": "A-Z",
+        "description": "The label for sorting by A to Z for saved sessions"
+    },
+    "labelTagsAll": {
+        "message": "全部",
+        "description": "The label for showing all tags for saved sessions"
+    },
+    "labelYear": {
+        "message": "年",
+        "description": "The label for year (abbreviated if possible)"
+    },
+    "labelMonth": {
+        "message": "月",
+        "description": "The label for month (abbreviated if possible)"
+    },
+    "labelHour": {
+        "message": "时",
+        "description": "The label for hour (abbreviated if possible)"
+    },
+    "labelMinute": {
+        "message": "分",
+        "description": "The label for minute (abbreviated if possible)"
+    },
+    "labelJustNow": {
+        "message": "刚刚",
+        "description": "The label for just now"
+    },
+    "labelDonate": {
+        "message": "赞助",
+        "description": "The label for Donate"
+    },
+    "labelSearch": {
+        "message": "搜索",
+        "description": "The label for Search"
+    },
+    "labelClear": {
+        "message": "清除",
+        "description": "The label for Clear"
+    },
+    "labelSave": {
+        "message": "保存",
+        "description": "The label for Save"
+    },
+    "labelCollapse": {
+        "message": "折叠",
+        "description": "The label for Collapse"
+    },
+    "labelExpand": {
+        "message": "展开",
+        "description": "The label for Expand"
+    },
+    "labelDelete": {
+        "message": "删除",
+        "description": "The label for Delete"
+    },
+    "labelOpen": {
+        "message": "打开",
+        "description": "The label for Open"
+    },
+    "labelAddTag": {
+        "message": "添加标签",
+        "description": "The label for Add tag"
+    },
+    "labelRemoveTag": {
+        "message": "移除标签",
+        "description": "The label for Remove tag icon"
+    },
+    "tagsModalSelectTag": {
+        "message": "选择标签",
+        "description": "The label for selecting a tag in the create tag modal"
+    },
+    "renameModalTitle": {
+        "message": "重命名会话",
+        "description": "The label for the rename session modal title"
+    },
+    "saveModalTitle": {
+        "message": "保存会话",
+        "description": "The label for the save session modal title"
+    },
+    "deleteModalTitle": {
+        "message": "删除会话",
+        "description": "The label for the delete session modal title"
+    },
+    "notifyLoadFail": {
+        "message": "载入会话失败",
+        "description": "The label for the failure of loading sessions notification"
+    },
+    "notifyUpdateFail": {
+        "message": "更新会话失败",
+        "description": "The label for the failure  of updating session notification"
+    },
+    "notifyDeleteFail": {
+        "message": "删除会话失败",
+        "description": "The label for the failure of deleting session notification"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "删除失败：不存在的会话",
+        "description": "The label for the failure of deleting non-existing session notification"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "所有会话已删除！",
+        "description": "The label for the success of deleting all sessions notification"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "删除失败：不存在的会话",
+        "description": "The label for the failure of deleting non-existing sessions notification"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "用户界面",
+        "description": "The label for the user interface section heading in settings"
+    },
+    "settingsPopupView": {
+        "message": "弹出视图",
+        "description": "The label for the Popup View option in settings"
+    },
+    "settingsAutosaveHeading": {
+        "message": "正在自动保存",
+        "description": "The label for the automatic saving section heading in settings"
+    },
+    "settingsAutosave": {
+        "message": "自动保存会话",
+        "description": "The label for the Autosave option in settings"
+    },
+    "settingsAutosaveInterval": {
+        "message": "保存间隔分钟（最小1分钟）",
+        "description": "The label for the auto save interval option in settings"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "扩展动作",
+        "description": "The label for the extension actions section heading in settings"
+    },
+    "settingsURLFilterList": {
+        "message": "URL 筛选列表",
+        "description": "The label for the URL Filter List text option in settings"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "保存时不询问会话名称",
+        "description": "The label for the do not ask for session name when saving option in settings"
+    },
+    "inputModalPlaceholder": {
+        "message": "输入会话名称…",
+        "description": "The label for the session modal input"
+    },
+    "deleteModalContent": {
+        "message": "确定要删除此会话吗？",
+        "description": "The label for the delete session modal content"
+    },
+    "labelSortName": {
+        "message": "名称",
+        "description": "The label for sorting by name category for saved sessions"
+    },
+    "labelRename": {
+        "message": "重命名",
+        "description": "The label for Rename"
+    },
+    "labelSortZA": {
+        "message": "Z-A",
+        "description": "The label for sorting by Z to A for saved sessions"
+    },
+    "inputModalErrorLength": {
+        "message": "会话名称必须为 $1 至 $2 字符之间。",
+        "description": "The label for the containing unallowed characters error in input modal"
+    },
+    "inputModalErrorChar": {
+        "message": "会话名称不可包含“<”或“>”。",
+        "description": "The label for the containing unallowed characters error in input modal"
+    },
+    "notifyDeleteSuccess": {
+        "message": "会话已删除！",
+        "description": "The label for the success of deleting session notification"
+    },
+    "settingsDarkMode": {
+        "message": "深色主题",
+        "description": "The label for the Dark theme option in settings"
+    },
+    "settingsAutosaveMax": {
+        "message": "保存会话的最大数量（最多15个会话）",
+        "description": "The label for the Autosave max number of saved sessions option in settings"
+    },
+    "notifyDeleteAllFail": {
+        "message": "删除会话失败",
+        "description": "The label for the failure of deleting all session notification"
+    },
+    "shortcutSelectNext": {
+        "message": "选择下一个会话",
+        "description": "The label for selecting next session keyboard shortcut"
+    },
+    "shortcutDeleteSelected": {
+        "message": "删除选中的会话",
+        "description": "The label for deleting selected session keyboard shortcut"
+    },
+    "notifySaveFail": {
+        "message": "保存会话失败",
+        "description": "The label for the failure of saving session notification"
+    },
+    "notifySaveSuccess": {
+        "message": "会话已保存！",
+        "description": "The label for the success of saving session notification"
+    },
+    "notifySaveFailEmpty": {
+        "message": "保存空会话失败",
+        "description": "The label for the failure of saving empty session notification"
+    },
+    "notifyUpdateSuccess": {
+        "message": "会话已更新！",
+        "description": "The label for the success of updating session notification"
+    },
+    "settingsTagsBackground": {
+        "message": "背景",
+        "description": "The label for the tags table background column in settings"
+    },
+    "settingsTagsText": {
+        "message": "文本",
+        "description": "The label for the tags table text color column in settings"
+    },
+    "labelTab": {
+        "message": "标签页",
+        "description": "The label for Tab"
+    },
+    "labelSavedAt": {
+        "message": "保存于",
+        "description": "The label for Saved at (date)"
+    },
+    "notifyExtUpdate": {
+        "message": "Sessionic 已更新至 v$1 ！",
+        "description": "The label for the extension was updated notification - $1 is placeholder for version injection"
+    },
+    "settingsLazyload": {
+        "message": "懒加载标签页",
+        "description": "The label for the lazy load tabs option in settings"
+    },
+    "settingsTagsPreview": {
+        "message": "预览",
+        "description": "The label for the tags table preview column in settings"
+    },
+    "settingsTagsAction": {
+        "message": "动作",
+        "description": "The label for the tags table action column in settings"
+    },
+    "shortcutSaveCurrent": {
+        "message": "保存当前会话",
+        "description": "The label for saving current session keyboard shortcut"
+    },
+    "labelClose": {
+        "message": "关闭",
+        "description": "The label for Close"
+    },
+    "generalPage": {
+        "message": "通用",
+        "description": "The label for the General page in settings"
+    },
+    "keyboardShortcutsPage": {
+        "message": "键盘快捷方式",
+        "description": "The label for the Keyboard Shortcuts page in settings"
+    },
+    "aboutPage": {
+        "message": "关于",
+        "description": "The label for the About page in settings"
+    },
+    "labelDay": {
+        "message": "日",
+        "description": "The label for day"
+    },
+    "settingsResetAll": {
+        "message": "重置所有设置",
+        "description": "The label for the reset all settings button in settings"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "保存时压缩会话数据",
+        "description": "The label for compress session data when saving option in settings"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "从会话中排除固定的标签页",
+        "description": "The label for the excluding pinned tabs in settings"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "会话动作",
+        "description": "The label for the session actions section heading in settings"
+    },
+    "settingsTagsTag": {
+        "message": "标签",
+        "description": "The label for the tags table tag column in settings"
+    },
+    "settingsImportSessions": {
+        "message": "导入会话",
+        "description": "The label for importing sessions button in settings"
+    },
+    "settingsExportSessions": {
+        "message": "导出会话",
+        "description": "The label for exporting sessions button in settings"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "键盘快捷方式",
+        "description": "The label for keyboard shortcuts section in keyboard shortcuts page"
+    },
+    "shortcutRenameSelected": {
+        "message": "重命名选中的会话",
+        "description": "The label for opening command palette keyboard shortcut"
+    },
+    "shortcutFocusSearch": {
+        "message": "聚焦搜索框",
+        "description": "The label for focusing search box keyboard shortcut"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "显示当前会话",
+        "description": "The label for displaying current session keyboard shortcut"
+    },
+    "shortcutSelectPrevious": {
+        "message": "选择之前的会话",
+        "description": "The label for selecting previous session shortcut"
+    },
+    "aboutTranslationsLabel": {
+        "message": "翻译"
+    },
+    "aboutChangelogLabel": {
+        "message": "更新日志"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "源代码"
+    },
+    "labelWindow": {
+        "message": "窗口",
+        "description": "The label for Window"
+    },
+    "labelWindows": {
+        "message": "窗口",
+        "description": "The label for Windows"
+    },
+    "labelPrivateWindow": {
+        "message": "Private 窗口",
+        "description": "The label for Private Window"
+    }
+}
