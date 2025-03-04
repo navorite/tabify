@@ -1,0 +1,396 @@
+{
+    "labelDonate": {
+        "message": "捐贈",
+        "description": "The label for Donate"
+    },
+    "labelSearchPlaceholder": {
+        "message": "搜尋工作階段或分頁名稱…",
+        "description": "The placeholder for the Searchbar"
+    },
+    "labelClear": {
+        "message": "清除",
+        "description": "The label for Clear"
+    },
+    "labelSave": {
+        "message": "儲存",
+        "description": "The label for Save"
+    },
+    "labelCollapse": {
+        "message": "收合",
+        "description": "The label for Collapse"
+    },
+    "labelExpand": {
+        "message": "展開",
+        "description": "The label for Expand"
+    },
+    "labelRename": {
+        "message": "重新命名",
+        "description": "The label for Rename"
+    },
+    "labelClose": {
+        "message": "關閉",
+        "description": "The label for Close"
+    },
+    "labelDelete": {
+        "message": "刪除",
+        "description": "The label for Delete"
+    },
+    "renameModalTitle": {
+        "message": "重新命名工作階段",
+        "description": "The label for the rename session modal title"
+    },
+    "labelAddTag": {
+        "message": "新增標籤",
+        "description": "The label for Add tag"
+    },
+    "labelOpen": {
+        "message": "開啟",
+        "description": "The label for Open"
+    },
+    "labelRemoveTag": {
+        "message": "移除標籤",
+        "description": "The label for Remove tag icon"
+    },
+    "tagsModalSelectTag": {
+        "message": "選擇一個標籤",
+        "description": "The label for selecting a tag in the create tag modal"
+    },
+    "inputModalPlaceholder": {
+        "message": "輸入工作階段名稱…",
+        "description": "The label for the session modal input"
+    },
+    "inputModalErrorLength": {
+        "message": "工作階段名稱必須介於 $1 至 $2 個字符之間。",
+        "description": "The label for the containing unallowed characters error in input modal"
+    },
+    "shortcutSelectNext": {
+        "message": "揀下一個工作階段",
+        "description": "The label for selecting next session keyboard shortcut"
+    },
+    "aboutTranslationsLabel": {
+        "message": "翻譯"
+    },
+    "inputModalErrorChar": {
+        "message": "工作階段名稱不得包含「<」或「>」字符。",
+        "description": "The label for the containing unallowed characters error in input modal"
+    },
+    "notifySaveSuccess": {
+        "message": "工作階段已儲存！",
+        "description": "The label for the success of saving session notification"
+    },
+    "deleteModalContent": {
+        "message": "你確定要刪除呢個工作階段？",
+        "description": "The label for the delete session modal content"
+    },
+    "notifyLoadFail": {
+        "message": "載入工作階段失敗",
+        "description": "The label for the failure of loading sessions notification"
+    },
+    "notifySaveFailEmpty": {
+        "message": "儲存空白工作階段失敗",
+        "description": "The label for the failure of saving empty session notification"
+    },
+    "notifySaveFail": {
+        "message": "儲存工作階段失敗",
+        "description": "The label for the failure of saving session notification"
+    },
+    "notifyUpdateSuccess": {
+        "message": "工作階段已更新！",
+        "description": "The label for the success of updating session notification"
+    },
+    "notifyDeleteSuccess": {
+        "message": "工作階段已刪除！",
+        "description": "The label for the success of deleting session notification"
+    },
+    "notifyUpdateFail": {
+        "message": "更新工作階段失敗",
+        "description": "The label for the failure  of updating session notification"
+    },
+    "notifyDeleteFail": {
+        "message": "刪除工作階段失敗",
+        "description": "The label for the failure of deleting session notification"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "刪除失敗：工作階段不存在",
+        "description": "The label for the failure of deleting non-existing session notification"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "所有工作階段都已刪除！",
+        "description": "The label for the success of deleting all sessions notification"
+    },
+    "notifyDeleteAllFail": {
+        "message": "刪除工作階段失敗",
+        "description": "The label for the failure of deleting all session notification"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "刪除失敗：工作階段不存在",
+        "description": "The label for the failure of deleting non-existing sessions notification"
+    },
+    "notifyExtUpdate": {
+        "message": "Sessionic 已更新至 v$1！",
+        "description": "The label for the extension was updated notification - $1 is placeholder for version injection"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "使用者介面",
+        "description": "The label for the user interface section heading in settings"
+    },
+    "settingsPopupView": {
+        "message": "彈出檢視",
+        "description": "The label for the Popup View option in settings"
+    },
+    "settingsExportSessions": {
+        "message": "匯出工作階段",
+        "description": "The label for exporting sessions button in settings"
+    },
+    "settingsDarkMode": {
+        "message": "深色主題",
+        "description": "The label for the Dark theme option in settings"
+    },
+    "settingsAutosave": {
+        "message": "自動儲存工作階段",
+        "description": "The label for the Autosave option in settings"
+    },
+    "settingsAutosaveMax": {
+        "message": "最多工作階段儲存數量（最多 15 個工作階段）",
+        "description": "The label for the Autosave max number of saved sessions option in settings"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "工作階段動作",
+        "description": "The label for the session actions section heading in settings"
+    },
+    "settingsTagsBackground": {
+        "message": "背景",
+        "description": "The label for the tags table background column in settings"
+    },
+    "settingsTagsText": {
+        "message": "文字",
+        "description": "The label for the tags table text color column in settings"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "鍵盤快捷鍵",
+        "description": "The label for keyboard shortcuts section in keyboard shortcuts page"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "儲存時不要詢問工作階段名稱",
+        "description": "The label for the do not ask for session name when saving option in settings"
+    },
+    "settingsAutosaveInterval": {
+        "message": "儲存間隔（分鐘）（最小 1 分鐘）",
+        "description": "The label for the auto save interval option in settings"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "擴充功能動作",
+        "description": "The label for the extension actions section heading in settings"
+    },
+    "settingsURLFilterList": {
+        "message": "網址過濾器列表",
+        "description": "The label for the URL Filter List text option in settings"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "儲存時壓縮工作階段資料",
+        "description": "The label for compress session data when saving option in settings"
+    },
+    "settingsAutosaveHeading": {
+        "message": "自動儲存緊",
+        "description": "The label for the automatic saving section heading in settings"
+    },
+    "settingsTagsTag": {
+        "message": "標籤",
+        "description": "The label for the tags table tag column in settings"
+    },
+    "shortcutSaveCurrent": {
+        "message": "儲存目前工作階段",
+        "description": "The label for saving current session keyboard shortcut"
+    },
+    "settingsTagsPreview": {
+        "message": "預覽",
+        "description": "The label for the tags table preview column in settings"
+    },
+    "settingsImportSessions": {
+        "message": "匯入工作階段",
+        "description": "The label for importing sessions button in settings"
+    },
+    "settingsTagsAction": {
+        "message": "動作",
+        "description": "The label for the tags table action column in settings"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "顯示目前工作階段",
+        "description": "The label for displaying current session keyboard shortcut"
+    },
+    "shortcutSelectPrevious": {
+        "message": "揀上一個工作階段",
+        "description": "The label for selecting previous session shortcut"
+    },
+    "settingsLazyloadDescription": {
+        "message": "喺揀之前唔載入分頁以大大減少記憶體使用量"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "原始碼"
+    },
+    "aboutDonateHeading": {
+        "message": "支持呢個專案",
+        "description": "The heading used in the donate modal"
+    },
+    "labelTab": {
+        "message": "分頁",
+        "description": "The label for Tab"
+    },
+    "aboutChangelogLabel": {
+        "message": "變更日誌"
+    },
+    "labelWindows": {
+        "message": "視窗",
+        "description": "The label for Windows"
+    },
+    "labelPrivateWindow": {
+        "message": "私人視窗",
+        "description": "The label for Private Window"
+    },
+    "labelTabs": {
+        "message": "分頁",
+        "description": "The label for Tabs"
+    },
+    "labelSortOldest": {
+        "message": "最舊",
+        "description": "The label for sorting by oldest saved session"
+    },
+    "labelHour": {
+        "message": "時",
+        "description": "The label for hour (abbreviated if possible)"
+    },
+    "labelSettings": {
+        "message": "設定",
+        "description": "The label for Settings"
+    },
+    "labelSavedAt": {
+        "message": "儲存喺",
+        "description": "The label for Saved at (date)"
+    },
+    "labelFullView": {
+        "message": "完整檢視",
+        "description": "The label for Full View"
+    },
+    "labelSearch": {
+        "message": "搜尋",
+        "description": "The label for Search"
+    },
+    "saveModalTitle": {
+        "message": "儲存工作階段",
+        "description": "The label for the save session modal title"
+    },
+    "deleteModalTitle": {
+        "message": "刪除工作階段",
+        "description": "The label for the delete session modal title"
+    },
+    "settingsLazyload": {
+        "message": "延遲載入分頁",
+        "description": "The label for the lazy load tabs option in settings"
+    },
+    "settingsResetAll": {
+        "message": "重置所有設定",
+        "description": "The label for the reset all settings button in settings"
+    },
+    "shortcutCommandPalette": {
+        "message": "開啟指令面板",
+        "description": "The label for opening command palette keyboard shortcut"
+    },
+    "shortcutFocusSearch": {
+        "message": "聚焦搜尋框",
+        "description": "The label for focusing search box keyboard shortcut"
+    },
+    "tagPlaceholder": {
+        "message": "例如：個人"
+    },
+    "aboutLicenseLabel": {
+        "message": "許可證 AGPL v3"
+    },
+    "extDesc": {
+        "message": "用於儲存、管理和恢復工作階段、視窗和分頁嘅網路擴充功能。",
+        "description": "Description of the extension"
+    },
+    "labelUnnamedSession": {
+        "message": "冇名嘅工作階段",
+        "description": "The label for Unnamed Session when saving without naming a session"
+    },
+    "generalPage": {
+        "message": "一般",
+        "description": "The label for the General page in settings"
+    },
+    "shortcutDeleteSelected": {
+        "message": "刪除已選擇嘅工作階段",
+        "description": "The label for deleting selected session keyboard shortcut"
+    },
+    "keyboardShortcutsPage": {
+        "message": "鍵盤快捷鍵",
+        "description": "The label for the Keyboard Shortcuts page in settings"
+    },
+    "settingsURLFilterListPlaceholder": {
+        "message": "例如只追蹤以下網址嘅匹配模式：\n*://*/*\nfile:///*/*\nftp://*/*\nchrome://*/*\nhttps://*.google.com/\nhttps://www.youtube.com/*\n",
+        "description": "The label for the URL Filter List placeholder in settings"
+    },
+    "shortcutRenameSelected": {
+        "message": "重新命名已選擇嘅工作階段",
+        "description": "The label for opening command palette keyboard shortcut"
+    },
+    "labelSortNewest": {
+        "message": "最新",
+        "description": "The label for sorting by newest saved session"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "從工作階段中排除已釘選嘅分頁",
+        "description": "The label for the excluding pinned tabs in settings"
+    },
+    "labelWindow": {
+        "message": "視窗",
+        "description": "The label for Window"
+    },
+    "labelSortDate": {
+        "message": "日期",
+        "description": "The label for sorting by date category"
+    },
+    "aboutPage": {
+        "message": "關於",
+        "description": "The label for the About page in settings"
+    },
+    "labelSortName": {
+        "message": "名稱",
+        "description": "The label for sorting by name category for saved sessions"
+    },
+    "labelCurrentSession": {
+        "message": "目前工作階段",
+        "description": "The label for Current Session"
+    },
+    "labelSortAZ": {
+        "message": "A-Z",
+        "description": "The label for sorting by A to Z for saved sessions"
+    },
+    "labelTagsAll": {
+        "message": "全部",
+        "description": "The label for showing all tags for saved sessions"
+    },
+    "labelYear": {
+        "message": "年",
+        "description": "The label for year (abbreviated if possible)"
+    },
+    "labelMonth": {
+        "message": "月",
+        "description": "The label for month (abbreviated if possible)"
+    },
+    "labelDay": {
+        "message": "日",
+        "description": "The label for day"
+    },
+    "labelSortZA": {
+        "message": "Z-A",
+        "description": "The label for sorting by Z to A for saved sessions"
+    },
+    "labelMinute": {
+        "message": "分",
+        "description": "The label for minute (abbreviated if possible)"
+    },
+    "labelJustNow": {
+        "message": "依家",
+        "description": "The label for just now"
+    }
+}
