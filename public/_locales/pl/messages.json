@@ -162,5 +162,182 @@
     "labelAddTag": {
         "message": "Dodaj tag",
         "description": "The label for Add tag"
+    },
+    "labelHour": {
+        "message": "h"
+    },
+    "renameModalTitle": {
+        "message": "Zmień nazwę sesji"
+    },
+    "inputModalErrorLength": {
+        "message": "Nazwa sesji musi mieć od $1 do $2 znaków."
+    },
+    "inputModalErrorChar": {
+        "message": "Nazwa sesji nie może zawierać znaków „<” ani „>”."
+    },
+    "deleteModalTitle": {
+        "message": "Usuń sesję"
+    },
+    "notifyLoadFail": {
+        "message": "Nie udało się załadować sesji"
+    },
+    "notifySaveSuccess": {
+        "message": "Sesja została zapisana!"
+    },
+    "notifySaveFailEmpty": {
+        "message": "Nie udało się zapisać pustej sesji"
+    },
+    "notifyUpdateSuccess": {
+        "message": "Sesja została zaktualizowana!"
+    },
+    "notifyUpdateFail": {
+        "message": "Nie udało się zaktualizować sesji"
+    },
+    "notifyDeleteSuccess": {
+        "message": "Sesja została usunięta!"
+    },
+    "notifyDeleteFail": {
+        "message": "Nie udało się usunąć sesji"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "Nie udało się usunąć: Sesja nie istnieje"
+    },
+    "inputModalPlaceholder": {
+        "message": "Wpisz nazwę sesji…"
+    },
+    "labelSearchPlaceholder": {
+        "message": "Wyszukaj nazwę sesji lub karty…"
+    },
+    "deleteModalContent": {
+        "message": "Czy na pewno chcesz usunąć tę sesję?"
+    },
+    "saveModalTitle": {
+        "message": "Zapisz sesję"
+    },
+    "notifySaveFail": {
+        "message": "Nie udało się zapisać sesji"
+    },
+    "tagsModalSelectTag": {
+        "message": "Wybierz tag"
+    },
+    "extDesc": {
+        "message": "Rozszerzenie przeglądarki do zapisywania, zarządzania i przywracania sesji, okien i kart."
+    },
+    "labelMinute": {
+        "message": "min"
+    },
+    "aboutDonateHeading": {
+        "message": "Wesprzyj projekt"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "Wszystkie sesje zostały usunięte!"
+    },
+    "notifyDeleteAllFail": {
+        "message": "Nie udało się usunąć sesji"
+    },
+    "notifyExtUpdate": {
+        "message": "Sessionic został zaktualizowany do wersji v$1!"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "Interfejs użytkownika"
+    },
+    "settingsDarkMode": {
+        "message": "Ciemny motyw"
+    },
+    "settingsAutosaveHeading": {
+        "message": "Automatyczne zapisywanie"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "Akcje rozszerzenia"
+    },
+    "settingsURLFilterList": {
+        "message": "Lista filtrów URL"
+    },
+    "settingsURLFilterListPlaceholder": {
+        "message": "np. śledź tylko następujące wzorce dopasowania URL:\n*://*/*\nfile:///*/*\nftp://*/*\nchrome://*/*\nhttps://*.google.com/\nhttps://www.youtube.com/*\n"
+    },
+    "settingsResetAll": {
+        "message": "Zresetuj wszystkie ustawienia"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "Nie pytaj o nazwę sesji podczas zapisywania"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "Skróty klawiaturowe"
+    },
+    "settingsImportSessions": {
+        "message": "Importuj sesje"
+    },
+    "settingsExportSessions": {
+        "message": "Eksportuj sesje"
+    },
+    "shortcutSelectPrevious": {
+        "message": "Wybierz poprzednią sesję"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "Wyświetl bieżącą sesję"
+    },
+    "settingsAutosaveMax": {
+        "message": "Maksymalna liczba zapisanych sesji (maks. 15 sesji)"
+    },
+    "aboutTranslationsLabel": {
+        "message": "Tłumaczenia"
+    },
+    "settingsAutosaveInterval": {
+        "message": "Interwał zapisywania w minutach (min. 1 minuta)"
+    },
+    "shortcutSaveCurrent": {
+        "message": "Zapisz bieżącą sesję"
+    },
+    "aboutChangelogLabel": {
+        "message": "Dziennik zmian"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "Kod źródłowy"
+    },
+    "shortcutDeleteSelected": {
+        "message": "Usuń wybraną sesję"
+    },
+    "settingsLazyloadDescription": {
+        "message": "Znacznie zmniejsz zużycie pamięci, nie ładując kart, dopóki nie zostaną wybrane"
+    },
+    "aboutLicenseLabel": {
+        "message": "Licencja AGPL v3"
+    },
+    "settingsLazyload": {
+        "message": "Leniwe ładowanie kart"
+    },
+    "shortcutSelectNext": {
+        "message": "Wybierz następną sesję"
+    },
+    "shortcutFocusSearch": {
+        "message": "Skup się na polu wyszukiwania"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "Nie udało się usunąć: Sesje nie istnieją"
+    },
+    "settingsAutosave": {
+        "message": "Automatycznie zapisuj sesje"
+    },
+    "settingsPopupView": {
+        "message": "Widok wyskakującego okna"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "Kompresuj dane sesji podczas zapisywania"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "Wyklucz przypięte karty z sesji"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "Akcje sesji"
+    },
+    "shortcutCommandPalette": {
+        "message": "Otwórz paletę poleceń"
+    },
+    "shortcutRenameSelected": {
+        "message": "Zmień nazwę wybranej sesji"
+    },
+    "tagPlaceholder": {
+        "message": "np. Osobista"
     }
 }

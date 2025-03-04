@@ -1,1 +1,296 @@
-{}
+{
+    "labelPrivateWindow": {
+        "message": "Индивидуальное окно"
+    },
+    "labelTabs": {
+        "message": "Вкладки"
+    },
+    "labelCurrentSession": {
+        "message": "Текущая сессия"
+    },
+    "labelUnnamedSession": {
+        "message": "Неназванный сеанс"
+    },
+    "labelSortDate": {
+        "message": "Дата"
+    },
+    "labelSortNewest": {
+        "message": "Самые новые"
+    },
+    "labelSortOldest": {
+        "message": "Самые старые"
+    },
+    "labelSortAZ": {
+        "message": "А-Я"
+    },
+    "labelSortZA": {
+        "message": "Я-А"
+    },
+    "labelTagsAll": {
+        "message": "Все"
+    },
+    "labelDay": {
+        "message": "день"
+    },
+    "labelHour": {
+        "message": "час"
+    },
+    "labelMinute": {
+        "message": "минута"
+    },
+    "labelSettings": {
+        "message": "Настройки"
+    },
+    "labelDonate": {
+        "message": "Пожертвовать"
+    },
+    "labelFullView": {
+        "message": "Полный просмотр"
+    },
+    "labelCollapse": {
+        "message": "Свернуть"
+    },
+    "labelRename": {
+        "message": "Переименовать"
+    },
+    "labelAddTag": {
+        "message": "Добавить тег"
+    },
+    "inputModalErrorLength": {
+        "message": "Имя сессии должно содержать от $1 до $2 символов."
+    },
+    "inputModalErrorChar": {
+        "message": "Имя сессии не должно содержать символов '<' или '>'."
+    },
+    "labelDelete": {
+        "message": "Удалить"
+    },
+    "deleteModalTitle": {
+        "message": "Удалить сессию"
+    },
+    "notifyLoadFail": {
+        "message": "Не удалось загрузить сессии"
+    },
+    "notifySaveSuccess": {
+        "message": "Сессия была сохранена!"
+    },
+    "notifySaveFailEmpty": {
+        "message": "Не удалось сохранить пустую сессию"
+    },
+    "notifyDeleteSuccess": {
+        "message": "Сессия была удалена!"
+    },
+    "notifyDeleteFail": {
+        "message": "Не удалось удалить сессию"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "Не удалось удалить: Несуществующая сессия"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "Все сессии были удалены!"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "Не удалось удалить: Несуществующие сессии"
+    },
+    "notifyExtUpdate": {
+        "message": "Sessionic был обновлен до v$1!"
+    },
+    "settingsPopupView": {
+        "message": "Всплывающее окно"
+    },
+    "settingsDarkMode": {
+        "message": "Темная тема"
+    },
+    "settingsResetAll": {
+        "message": "Сброс всех настроек"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "Не запрашивайте имя сессии при сохранении"
+    },
+    "settingsTagsText": {
+        "message": "Текст"
+    },
+    "settingsExportSessions": {
+        "message": "Экспорт Сессий"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "Сочетания клавиш"
+    },
+    "inputModalPlaceholder": {
+        "message": "Ввести имя сессии…"
+    },
+    "deleteModalContent": {
+        "message": "Вы уверены, что хотите удалить эту сессию?"
+    },
+    "generalPage": {
+        "message": "Главная"
+    },
+    "labelSortName": {
+        "message": "Имя"
+    },
+    "labelExpand": {
+        "message": "Развернуть"
+    },
+    "labelClose": {
+        "message": "Закрыть"
+    },
+    "labelRemoveTag": {
+        "message": "Удалить тег"
+    },
+    "notifyUpdateSuccess": {
+        "message": "Сессия была обновлена!"
+    },
+    "settingsAutosaveHeading": {
+        "message": "Автоматическое сохранение"
+    },
+    "settingsAutosave": {
+        "message": "Автоматическое сохранение сессий"
+    },
+    "settingsAutosaveMax": {
+        "message": "Максимальное количество сохраненных сессий (не более 15 сессий)"
+    },
+    "settingsAutosaveInterval": {
+        "message": "Интервал сохранения в минутах (мин. 1 минута)"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "Расширение действий"
+    },
+    "settingsURLFilterList": {
+        "message": "Список фильтров URL"
+    },
+    "settingsLazyload": {
+        "message": "Вкладки с ленивой загрузкой"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "Исключение закрепленных вкладок из сессий"
+    },
+    "shortcutSaveCurrent": {
+        "message": "Сохранить текущую сессию"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "Отображение текущей сессии"
+    },
+    "shortcutSelectNext": {
+        "message": "Выберите следующую сессию"
+    },
+    "shortcutDeleteSelected": {
+        "message": "Удалить выбранную сессию"
+    },
+    "extDesc": {
+        "message": "Веб-расширение для сохранения, управления и восстановления сеансов, окон и вкладок."
+    },
+    "labelSearch": {
+        "message": "Поиск"
+    },
+    "labelSearchPlaceholder": {
+        "message": "Поиск сеанса или имени вкладки…"
+    },
+    "labelOpen": {
+        "message": "Открыть"
+    },
+    "notifyUpdateFail": {
+        "message": "Не удалось обновить сессию"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "Пользовательский интерфейс"
+    },
+    "shortcutSelectPrevious": {
+        "message": "Выберите предыдущую сессию"
+    },
+    "labelSavedAt": {
+        "message": "Сохранено в"
+    },
+    "notifyDeleteAllFail": {
+        "message": "Не удалось удалить сессии"
+    },
+    "aboutDonateHeading": {
+        "message": "Поддержать проект"
+    },
+    "labelClear": {
+        "message": "Очистить"
+    },
+    "labelWindow": {
+        "message": "Окно"
+    },
+    "labelWindows": {
+        "message": "Windows"
+    },
+    "labelTab": {
+        "message": "Вкладка"
+    },
+    "aboutPage": {
+        "message": "О расширении"
+    },
+    "keyboardShortcutsPage": {
+        "message": "Сочетания клавиш"
+    },
+    "tagsModalSelectTag": {
+        "message": "Выбрать тег"
+    },
+    "renameModalTitle": {
+        "message": "Переименовать сессию"
+    },
+    "saveModalTitle": {
+        "message": "Сохранить сессию"
+    },
+    "notifySaveFail": {
+        "message": "Не удалось сохранить сессию"
+    },
+    "shortcutRenameSelected": {
+        "message": "Переименование выбранной сессии"
+    },
+    "shortcutFocusSearch": {
+        "message": "Фокусное окно поиска"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "Сжимайте данные сессии при сохранении"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "Действия сессии"
+    },
+    "settingsTagsTag": {
+        "message": "Тег"
+    },
+    "settingsTagsBackground": {
+        "message": "Фон"
+    },
+    "settingsTagsPreview": {
+        "message": "Предварительный просмотр"
+    },
+    "settingsTagsAction": {
+        "message": "Действие"
+    },
+    "settingsImportSessions": {
+        "message": "Импорт Сессий"
+    },
+    "shortcutCommandPalette": {
+        "message": "Открыть палитру команд"
+    },
+    "tagPlaceholder": {
+        "message": "Например, личные"
+    },
+    "settingsLazyloadDescription": {
+        "message": "Значительно сократите потребление памяти, не загружая вкладки до тех пор, пока они не будут выбраны"
+    },
+    "aboutTranslationsLabel": {
+        "message": "Переводы"
+    },
+    "aboutChangelogLabel": {
+        "message": "Журнал изменений"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "Исходный код"
+    },
+    "aboutLicenseLabel": {
+        "message": "License AGPL v3"
+    },
+    "settingsURLFilterListPlaceholder": {
+        "message": "Например, отслеживать только следующие шаблоны соответствия URL:\n*://*/*\nfile:///*/*\nftp://*/*\nchrome://*/*\nhttps://*.google.com/\nhttps://www.youtube.com/*\n"
+    },
+    "labelJustNow": {
+        "message": "только что"
+    },
+    "labelSave": {
+        "message": "Сохранить"
+    }
+}

@@ -1,1 +1,302 @@
-{}
+{
+    "settingsDarkMode": {
+        "message": "Dunkles Design"
+    },
+    "labelPrivateWindow": {
+        "message": "Privates Fenster"
+    },
+    "labelTabs": {
+        "message": "Tabs"
+    },
+    "labelCurrentSession": {
+        "message": "Aktuelle Sitzung"
+    },
+    "labelUnnamedSession": {
+        "message": "Unbenannte Sitzung"
+    },
+    "labelSortOldest": {
+        "message": "Älteste"
+    },
+    "labelSortName": {
+        "message": "Name"
+    },
+    "labelSortZA": {
+        "message": "Z-A"
+    },
+    "labelHour": {
+        "message": "Stunde"
+    },
+    "labelMinute": {
+        "message": "Minute"
+    },
+    "labelJustNow": {
+        "message": "Gerade eben"
+    },
+    "labelFullView": {
+        "message": "Vollbild"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "Benutzeroberfläche"
+    },
+    "settingsAutosaveHeading": {
+        "message": "Automatisches Speichern"
+    },
+    "settingsAutosave": {
+        "message": "Speichere Sitzungen automatisch"
+    },
+    "settingsAutosaveMax": {
+        "message": "Maximale Anzahl an gespeicherten Sitzungen (maximal 15 Sitzungen)"
+    },
+    "settingsLazyload": {
+        "message": "Langsam ladende Tabs"
+    },
+    "settingsResetAll": {
+        "message": "Alle Einstellungen zurücksetzen"
+    },
+    "settingsTagsAction": {
+        "message": "Optionen"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "Frage beim Speichern nicht nach dem Sitzungsnamen"
+    },
+    "settingsTagsPreview": {
+        "message": "Vorschau"
+    },
+    "settingsExportSessions": {
+        "message": "Sitzung exportieren"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "Tastaturkürzel"
+    },
+    "shortcutDeleteSelected": {
+        "message": "Ausgewählte Sitzung löschen"
+    },
+    "shortcutRenameSelected": {
+        "message": "Aktuelle Sitzung umbenennen"
+    },
+    "shortcutFocusSearch": {
+        "message": "Zur Suchbox wechseln"
+    },
+    "labelSearchPlaceholder": {
+        "message": "Suche Sitzungs- oder Tabname…"
+    },
+    "tagPlaceholder": {
+        "message": "z. B. Privat"
+    },
+    "aboutChangelogLabel": {
+        "message": "Änderungshistorie"
+    },
+    "aboutLicenseLabel": {
+        "message": "Lizenz AGPL v3"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "Quellcode"
+    },
+    "deleteModalContent": {
+        "message": "Sind du sicher, dass du diese Sitzung löschen möchtest?"
+    },
+    "settingsLazyloadDescription": {
+        "message": "Tabs erst laden, wenn sie ausgewählt werden (reduziert die Speichernutzung erheblich)"
+    },
+    "labelTagsAll": {
+        "message": "Alle"
+    },
+    "labelDay": {
+        "message": "Tag"
+    },
+    "labelDonate": {
+        "message": "Spende"
+    },
+    "labelOpen": {
+        "message": "Öffnen"
+    },
+    "notifyExtUpdate": {
+        "message": "Sessionic wurde auf Version v$1 aktualisier!"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "Optionen"
+    },
+    "shortcutSelectNext": {
+        "message": "Nächste Sitzung auswählen"
+    },
+    "labelWindows": {
+        "message": "Fenster"
+    },
+    "labelTab": {
+        "message": "Tab"
+    },
+    "labelMonth": {
+        "message": "Monat"
+    },
+    "labelRename": {
+        "message": "Umbenennen"
+    },
+    "labelClose": {
+        "message": "Schließen"
+    },
+    "notifyUpdateSuccess": {
+        "message": "Die Sitzung wurde aktualisier!"
+    },
+    "settingsURLFilterListPlaceholder": {
+        "message": "verfolge beispielsweise nur URLs mit den folgenden Mustern:\n*://*/*\nfile:///*/*\nftp://*/*\nchrome://*/*\nhttps://*.google.de/\nhttps://www.youtube.de/*\n"
+    },
+    "settingsTagsBackground": {
+        "message": "Hintergrund"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "Füge angeheftete Tabs nicht zur Sitzung hinzu"
+    },
+    "labelSearch": {
+        "message": "Suche"
+    },
+    "labelExpand": {
+        "message": "Erweitern"
+    },
+    "labelClear": {
+        "message": "Zurücksetzen"
+    },
+    "settingsURLFilterList": {
+        "message": "URL Filterliste"
+    },
+    "settingsImportSessions": {
+        "message": "Sitzung importieren"
+    },
+    "notifySaveSuccess": {
+        "message": "Die Sitzung wurde gespeichert!"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "Aktuelle Sitzung anzeigen"
+    },
+    "notifySaveFail": {
+        "message": "Speichern der Sitzung ist fehlgeschlagen"
+    },
+    "labelSettings": {
+        "message": "Einstellungen"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "Löschen fehlgeschlagen: nicht existente Sitzung"
+    },
+    "labelSortAZ": {
+        "message": "A-Z"
+    },
+    "shortcutSelectPrevious": {
+        "message": "Vorige Sitzung auswählen"
+    },
+    "labelSave": {
+        "message": "Speichern"
+    },
+    "labelYear": {
+        "message": "Jahr"
+    },
+    "notifyLoadFail": {
+        "message": "Laden der Sitzung ist fehlgeschlagen"
+    },
+    "labelWindow": {
+        "message": "Fenster"
+    },
+    "extDesc": {
+        "message": "Sessionic ist eine Web-Erweiterung um Tabs und Fenster zu speichern, zu verwalten und wiederherzustellen."
+    },
+    "keyboardShortcutsPage": {
+        "message": "Tastaturkürzel"
+    },
+    "aboutPage": {
+        "message": "Über Sessionic"
+    },
+    "aboutDonateHeading": {
+        "message": "Unterstütze das Projekt"
+    },
+    "generalPage": {
+        "message": "Allgemein"
+    },
+    "labelSavedAt": {
+        "message": "Gespeichert am"
+    },
+    "inputModalPlaceholder": {
+        "message": "Sitzungsname eingeben…"
+    },
+    "labelSortDate": {
+        "message": "Datum"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "Komprimiere Sitzungdaten beim Speichern"
+    },
+    "shortcutCommandPalette": {
+        "message": "Öffne das Befehlsmenü"
+    },
+    "aboutTranslationsLabel": {
+        "message": "Übersetzungen"
+    },
+    "labelRemoveTag": {
+        "message": "Schlagwort entfernen"
+    },
+    "inputModalErrorChar": {
+        "message": "Der Sitzungsname darf '<' und '>' nicht beinhalten."
+    },
+    "labelCollapse": {
+        "message": "Minimieren"
+    },
+    "labelDelete": {
+        "message": "Löschen"
+    },
+    "labelAddTag": {
+        "message": "Schlagwort hinzufügen"
+    },
+    "tagsModalSelectTag": {
+        "message": "Schlagwort auswählen"
+    },
+    "renameModalTitle": {
+        "message": "Sitzung umbenennen"
+    },
+    "inputModalErrorLength": {
+        "message": "Der Sitzungsname muss ziwschen $1 und $2 Zeichen lang sein."
+    },
+    "deleteModalTitle": {
+        "message": "Sitzung löschen"
+    },
+    "notifyDeleteAllFail": {
+        "message": "Löschen der Sitzungen fehlgeschlagen"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "Löschen fehlgeschlagen: nicht existente Sitzungen"
+    },
+    "notifySaveFailEmpty": {
+        "message": "Speichern der leeren Sitzung ist fehlgeschlagen"
+    },
+    "notifyUpdateFail": {
+        "message": "Aktualisierung der Sitzung ist fehlgeschlagen"
+    },
+    "notifyDeleteSuccess": {
+        "message": "Die Sitzung wurde gelöscht!"
+    },
+    "notifyDeleteFail": {
+        "message": "Löschen der Sitzung ist fehlgeschlagen"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "Alle Sitzungen wurden gelöscht!"
+    },
+    "settingsPopupView": {
+        "message": "Pop-up Ansicht"
+    },
+    "settingsTagsText": {
+        "message": "Schrift"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "Sitzungsoptionen"
+    },
+    "settingsTagsTag": {
+        "message": "Schlagwort"
+    },
+    "labelSortNewest": {
+        "message": "Neueste"
+    },
+    "saveModalTitle": {
+        "message": "Sitzung speichern"
+    },
+    "settingsAutosaveInterval": {
+        "message": "Speicherintervall in Minuten (mind. 1 Minute)"
+    },
+    "shortcutSaveCurrent": {
+        "message": "Aktuelle Sitzung speichern"
+    }
+}
