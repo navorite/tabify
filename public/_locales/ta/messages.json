@@ -1,0 +1,305 @@
+{
+    "keyboardShortcutsPage": {
+        "message": "விசைப்பலகை குறுக்குவழிகள்"
+    },
+    "aboutPage": {
+        "message": "பற்றி"
+    },
+    "aboutDonateHeading": {
+        "message": "திட்டத்தை ஆதரிக்கவும்"
+    },
+    "aboutDonateText": {
+        "message": "விளம்பரங்கள், வீக்கம் அல்லது கண்காணிப்பு இல்லாமல் அமர்வு எப்போதும் இலவசம். இது எனது வளர்ச்சியில் நிறைய நேரம் எடுக்கும். நீட்டிப்பை மேம்படுத்த எனக்கு உதவ விரும்பினால், கீழேயுள்ள இணைப்புகளைப் பயன்படுத்தி நன்கொடை அளிப்பதைக் கவனியுங்கள்"
+    },
+    "labelWindows": {
+        "message": "சாளரங்கள்"
+    },
+    "labelPrivateWindow": {
+        "message": "தனிப்பட்ட சாளரம்"
+    },
+    "labelTab": {
+        "message": "தாவல்"
+    },
+    "labelTabs": {
+        "message": "தாவல்கள்"
+    },
+    "labelCurrentSession": {
+        "message": "நடப்பு அமர்வு"
+    },
+    "labelUnnamedSession": {
+        "message": "பெயரிடப்படாத அமர்வு"
+    },
+    "labelSortDate": {
+        "message": "திகதி"
+    },
+    "labelSortNewest": {
+        "message": "புதியது"
+    },
+    "labelSortOldest": {
+        "message": "பழமையானது"
+    },
+    "labelSortName": {
+        "message": "பெயர்"
+    },
+    "labelSortAZ": {
+        "message": "A-z"
+    },
+    "labelSortZA": {
+        "message": "Z-A."
+    },
+    "labelTagsAll": {
+        "message": "அனைத்தும்"
+    },
+    "labelYear": {
+        "message": "yr"
+    },
+    "labelMonth": {
+        "message": "மோ"
+    },
+    "labelDay": {
+        "message": "நாள்"
+    },
+    "labelHour": {
+        "message": "எச்.ஆர்"
+    },
+    "labelJustNow": {
+        "message": "இப்போது"
+    },
+    "labelMinute": {
+        "message": "மணித்துளி"
+    },
+    "labelSavedAt": {
+        "message": "சேமிக்கப்பட்டது"
+    },
+    "labelSettings": {
+        "message": "அமைப்புகள்"
+    },
+    "labelDonate": {
+        "message": "நன்கொடை"
+    },
+    "labelAddTag": {
+        "message": "குறிச்சொல்லைச் சேர்க்கவும்"
+    },
+    "labelRemoveTag": {
+        "message": "குறிச்சொல்லை அகற்று"
+    },
+    "labelOpen": {
+        "message": "திற"
+    },
+    "tagsModalSelectTag": {
+        "message": "குறிச்சொல்லைத் தேர்ந்தெடுக்கவும்"
+    },
+    "deleteModalTitle": {
+        "message": "அமர்வை நீக்கு"
+    },
+    "notifyLoadFail": {
+        "message": "அமர்வுகளை ஏற்றுவதில் தோல்வி"
+    },
+    "notifySaveFail": {
+        "message": "அமர்வைக் காப்பாற்றுவதில் தோல்வி"
+    },
+    "notifySaveFailEmpty": {
+        "message": "வெற்று அமர்வை சேமிப்பதில் தோல்வி"
+    },
+    "notifyUpdateFail": {
+        "message": "அமர்வைப் புதுப்பிக்கத் தவறிவிட்டது"
+    },
+    "renameModalTitle": {
+        "message": "அமர்வு மறுபெயரிடுதல்"
+    },
+    "inputModalPlaceholder": {
+        "message": "அமர்வு பெயரை உள்ளிடவும்…"
+    },
+    "inputModalErrorLength": {
+        "message": "அமர்வு பெயர் $ 1 முதல் $ 2 எழுத்துக்கள் வரை இருக்க வேண்டும்."
+    },
+    "inputModalErrorChar": {
+        "message": "அமர்வு பெயரில் '<' அல்லது '>' எழுத்துக்கள் இருக்கக்கூடாது."
+    },
+    "notifyDeleteSuccess": {
+        "message": "அமர்வு நீக்கப்பட்டது!"
+    },
+    "notifyDeleteFailUndefined": {
+        "message": "நீக்குவதில் தோல்வி: இல்லாத அமர்வு"
+    },
+    "notifyDeleteFail": {
+        "message": "அமர்வை நீக்குவதில் தோல்வி"
+    },
+    "notifyDeleteAllSuccess": {
+        "message": "அனைத்து அமர்வுகளும் நீக்கப்பட்டன!"
+    },
+    "notifyDeleteAllFailUndefined": {
+        "message": "நீக்குவதில் தோல்வி: இல்லாத அமர்வுகள்"
+    },
+    "notifyDeleteAllFail": {
+        "message": "அமர்வுகளை நீக்குவதில் தோல்வி"
+    },
+    "extDesc": {
+        "message": "அமர்வுகள், சாளரங்கள் மற்றும் தாவல்களைச் சேமிக்க, நிர்வகிக்க மற்றும் மீட்டமைக்க ஒரு வலை நீட்டிப்பு."
+    },
+    "generalPage": {
+        "message": "பொது"
+    },
+    "settingsAutosaveMax": {
+        "message": "சேமித்த அமர்வுகளின் அதிகபட்ச எண்ணிக்கை (அதிகபட்சம் 15 அமர்வுகள்)"
+    },
+    "settingsAutosaveInterval": {
+        "message": "இடைவெளியை நிமிடங்களில் சேமிக்கவும் (நிமிடம் 1 நிமிடம்)"
+    },
+    "settingsExtensionActionsHeading": {
+        "message": "நீட்டிப்பு செயல்கள்"
+    },
+    "settingsURLFilterList": {
+        "message": "முகவரி வடிகட்டி பட்டியல்"
+    },
+    "settingsLazyload": {
+        "message": "சோம்பேறி சுமை தாவல்கள்"
+    },
+    "settingsURLFilterListPlaceholder": {
+        "message": "எ.கா. பின்வரும் முகவரி போட்டி வடிவங்களை மட்டுமே கண்காணிக்கவும்:\n *: //*/*\n கோப்பு: ///*/*\n ftp: //*/*\n Chrome: //*/*\n https: //*.google.com/\n https://www.youtube.com/*\n"
+    },
+    "settingsResetAll": {
+        "message": "எல்லா அமைப்புகளையும் மீட்டமைக்கவும்"
+    },
+    "settingsExportSessionCompressed": {
+        "message": "சேமிக்கும்போது அமர்வு தரவை அமுக்கவும்"
+    },
+    "settingsExcludePinnedTabs": {
+        "message": "அமர்விலிருந்து பின் செய்யப்பட்ட தாவல்களை விலக்கு"
+    },
+    "settingsSessionActionsHeading": {
+        "message": "அமர்வு செயல்கள்"
+    },
+    "settingsTagsBackground": {
+        "message": "பின்னணி"
+    },
+    "settingsDoNotAskForSessionName": {
+        "message": "சேமிக்கும்போது அமர்வு பெயரைக் கேட்க வேண்டாம்"
+    },
+    "settingsTagsText": {
+        "message": "உரை"
+    },
+    "settingsTagsPreview": {
+        "message": "முன்னோட்டம்"
+    },
+    "settingsTagsAction": {
+        "message": "செயல்"
+    },
+    "shortcutSaveCurrent": {
+        "message": "தற்போதைய அமர்வை சேமிக்கவும்"
+    },
+    "shortcutRenameSelected": {
+        "message": "தேர்ந்தெடுக்கப்பட்ட அமர்வு மறுபெயரிடுங்கள்"
+    },
+    "shortcutFocusSearch": {
+        "message": "தேடல் பெட்டியில் கவனம் செலுத்துங்கள்"
+    },
+    "shortcutDisplayCurrent": {
+        "message": "தற்போதைய அமர்வைக் காண்பி"
+    },
+    "shortcutSelectPrevious": {
+        "message": "முந்தைய அமர்வைத் தேர்ந்தெடுக்கவும்"
+    },
+    "shortcutSelectNext": {
+        "message": "அடுத்த அமர்வைத் தேர்ந்தெடுக்கவும்"
+    },
+    "shortcutDeleteSelected": {
+        "message": "தேர்ந்தெடுக்கப்பட்ட அமர்வை நீக்கு"
+    },
+    "settingsLazyloadDescription": {
+        "message": "தேர்ந்தெடுக்கப்பட்ட வரை தாவல்களை ஏற்றாததன் மூலம் நினைவக பயன்பாட்டை வெகுவாகக் குறைக்கவும்"
+    },
+    "aboutTranslationsLabel": {
+        "message": "மொழிபெயர்ப்புகள்"
+    },
+    "aboutChangelogLabel": {
+        "message": "மாற்றபதிவு"
+    },
+    "aboutSourceCodeLabel": {
+        "message": "மூலக் குறியீடு"
+    },
+    "aboutLicenseLabel": {
+        "message": "உரிம ஏசிபிஎல் வி 3"
+    },
+    "labelWindow": {
+        "message": "சாளரம்"
+    },
+    "labelFullView": {
+        "message": "முழு பார்வை"
+    },
+    "labelSearch": {
+        "message": "தேடல்"
+    },
+    "labelSearchPlaceholder": {
+        "message": "தேடல் அமர்வு அல்லது தாவல் பெயர்…"
+    },
+    "labelClear": {
+        "message": "தெளிவான"
+    },
+    "labelSave": {
+        "message": "சேமி"
+    },
+    "labelCollapse": {
+        "message": "சரிவு"
+    },
+    "labelExpand": {
+        "message": "விரிவாக்கு"
+    },
+    "labelRename": {
+        "message": "மறுபெயரிடுங்கள்"
+    },
+    "labelClose": {
+        "message": "மூடு"
+    },
+    "labelDelete": {
+        "message": "நீக்கு"
+    },
+    "saveModalTitle": {
+        "message": "அமர்வை சேமிக்கவும்"
+    },
+    "deleteModalContent": {
+        "message": "இந்த அமர்வை நீக்க விரும்புகிறீர்களா?"
+    },
+    "notifySaveSuccess": {
+        "message": "அமர்வு சேமிக்கப்பட்டது!"
+    },
+    "notifyUpdateSuccess": {
+        "message": "அமர்வு புதுப்பிக்கப்பட்டது!"
+    },
+    "notifyExtUpdate": {
+        "message": "அமர்வு V $ 1 க்கு புதுப்பிக்கப்பட்டது!"
+    },
+    "settingsUserInterfaceHeading": {
+        "message": "பயனர் இடைமுகம்"
+    },
+    "settingsPopupView": {
+        "message": "பாப்அப் பார்வை"
+    },
+    "settingsDarkMode": {
+        "message": "இருண்ட கருப்பொருள்"
+    },
+    "settingsAutosaveHeading": {
+        "message": "தானியங்கி சேமிப்பு"
+    },
+    "settingsAutosave": {
+        "message": "அமர்வுகளை தானாக சேமிக்கவும்"
+    },
+    "settingsTagsTag": {
+        "message": "குறிச்சொல்"
+    },
+    "keyboardShortcutsHeading": {
+        "message": "விசைப்பலகை குறுக்குவழிகள்"
+    },
+    "settingsImportSessions": {
+        "message": "அமர்வுகள் இறக்குமதி"
+    },
+    "settingsExportSessions": {
+        "message": "ஏற்றுமதி அமர்வுகள்"
+    },
+    "shortcutCommandPalette": {
+        "message": "திறந்த கட்டளை தட்டு"
+    },
+    "tagPlaceholder": {
+        "message": "எ.கா. தனிப்பட்ட"
+    }
+}
